@@ -20,7 +20,7 @@ conda activate mopoe                 # activate conda env
 
 Second, download the data, inception network, and pretrained classifiers:
 ```bash
-curl -L -o tmp.zip https://www.dropbox.com/sh/lx8669lyok9ois6/AADmH2Q6T_iIlRg2Hp-R_Clca\?dl\=1
+curl -L -o tmp.zip https://drive.google.com/drive/folders/1lr-laYwjDq3AzalaIe9jN4shpt1wBsYM?usp=sharing
 unzip tmp.zip
 unzip celeba_data.zip -d data/
 unzip data_mnistsvhntext.zip -d data/
